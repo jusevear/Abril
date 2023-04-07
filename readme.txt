@@ -1,4 +1,5 @@
 Welcome to my Project!
 
-Author: Juan Velez
+
+Author: Juan Sebastian Velez
 Twitter: @jusevear
