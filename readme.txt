@@ -1,4 +1,4 @@
-Welcome to my Project!
+Welcome to my first  GIT Project!
 
 
 Author: Juan Sebastian Velez
