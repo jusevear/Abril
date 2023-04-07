@@ -1,4 +1,4 @@
 Welcome to my Project!
 
-Author: Juan
+Author: Juan Sebastian
 Twitter: @jusevear
