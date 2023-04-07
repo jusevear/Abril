@@ -1,4 +1,4 @@
 Welcome to my Project!
 
-Author: Juan
+Author: Juan Velez
 Twitter: @jusevear
